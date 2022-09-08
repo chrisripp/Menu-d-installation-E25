@@ -347,3 +347,4 @@
   rm -rf .local/share/eluminance
   rm -rf .local/applications/eluminance
   
+  read -p "Press return to continue: "

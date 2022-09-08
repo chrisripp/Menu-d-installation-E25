@@ -176,4 +176,4 @@ su -c "ninja -C build install"
 su root -c "/sbin/ldconfig"
 cd ..
 
-
+read -p "Press return to continue: "

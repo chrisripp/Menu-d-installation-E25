@@ -83,4 +83,5 @@ for file in $( ls ); do
     cp $file ~/.config/geany
 cd ..    
 done 
-echo "End. You can test it"
+echo "Installation terminée"
+read -p "Press return to continue: "
